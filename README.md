@@ -1,8 +1,8 @@
-# R_vs_Python
-A repo for performance tests between R and Python.
+# Bookkeeping Discrepancies
 
-## Test 1: Finding Discrepancies
+A place to study some unique coding challenges related to bookkeeping tasks.
 
+---
 ### Motivation:
 
 A bookkeeper often encouters a type of problem and needs help automating a solution.
@@ -30,7 +30,6 @@ The discrepancy found in the final balances is of 210.04 dollars.
 Figure out how long it takes for your program to run. For performance and practical
 reasons, an ideal program should take less than a minute to spit out results.
 
-
 ### Solutions:
 
 The R solution takes in general three times longer than the Python solution, yet 
@@ -42,8 +41,3 @@ perspective, a more sophisticated approach could be pursued.
 
 ---
 
-
-
-
-
-# BookkeepingDiscrepancies
